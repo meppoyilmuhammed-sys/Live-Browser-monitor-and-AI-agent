@@ -105,5 +105,4 @@ POSSIBLE NEXT STEPS
 
 LICENSE
 -------
-Add your preferred license here (MIT is a common simple choice for
-personal projects like this).
+None - A part of MCA Cyber programme by Amrita University 
